@@ -1,4 +1,4 @@
 def call() {
     echo "Building Application..."
-    sh date
+    sh 'date'
 }
